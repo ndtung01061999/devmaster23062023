@@ -23,3 +23,9 @@ g
 7src/com/vn/devmaster/demo/interfaceorabstract/Girl.java,b\e\be3c15317507f4dce4ba1eee5512c05a606add30
 i
 9src/com/vn/devmaster/demo/interfaceorabstract/Person.java,2\e\2ebe9dad3cc047ecabb1e575aaf4e4d2f937aa33
+g
+7src/com/vn/devmaster/demo/anonymousornested/Nested.java,2\9\2997a265792774fc98fe27bdeba05545147ff31c
+[
++src/com/vn/devmaster/labs/bai5/Product.java,7\2\721d5c0bebf525c914cacdbba3609e8a91000fd4
+b
+2src/com/vn/devmaster/labs/bai5/ProductManager.java,7\b\7b6a70c22ecae2c26c8c74215add7d5b0f494666
